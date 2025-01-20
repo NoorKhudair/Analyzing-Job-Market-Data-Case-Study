@@ -7,7 +7,7 @@ This is a fictitious dataset that is comprised of job postings over the past 5 y
 | Job Title | Data Analyst, Data Scientist, ... |
 | Job Position Type | Full-time, Contract |
 | Job Position Level | Internship, Entry-level, Executive, ... |
-| Job Skills | ['powerbi, excel, sql'],['python, databases'], ... |
+| Job Skills | ['powerbi', 'excel', 'sql'],['python', 'databases'], ... |
 | ... | ... |
 
 ## Qualitative Columns
