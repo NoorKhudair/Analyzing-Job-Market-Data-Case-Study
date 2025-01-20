@@ -10,11 +10,11 @@ This Power BI dashboard analyzes job market trends across eight key data-related
 
 - Tree map showing proportion of job skills in each job title
 - Line chart tracking job posting counts over time (2017-2021) for each position level (Associate, Director, Entry level, Executive, Internship, mid-senior level)
-- Bar chart showing average years of experience required by each y job position level
+- Bar chart showing average years of experience required by each job position level
 
 ### 2. Skills Page
 
-- Table showing percentage of each skill in job a specific job title
+- Table showing percentage of each skill in a specific job title
 - Line chart tracking skill in postings percentage over time
 - Bar chart showing the frequency count of all job skills
 
@@ -22,7 +22,7 @@ This Power BI dashboard analyzes job market trends across eight key data-related
 
 - Scatter plot showing years of experience and posting count by job position level across different industries
 - Chart displaying average years of experience by company size
-- A table showing company names with an associated job title and their job postings
+- table showing company names with an associated job title and their job postings
 
 ## Filters
 
@@ -34,7 +34,13 @@ All pages can be filtered by:
 - Company Size
 - Company Industry
 - Job Posting Date (range from 1/1/2017 to 12/31/2021)
+  
+## Questions This Dashboard Can Answer
 
+- Is there an expected experience level for certain position levels?
+- Are certain companies targeting particular job types, experience or skills?
+- What are top skills needed for entry-level Data Scientists?
+  
 ## Key Findings After Data Exploration
 
 - March 2020 experienced a significant drop in job postings due to the onset of COVID-19
