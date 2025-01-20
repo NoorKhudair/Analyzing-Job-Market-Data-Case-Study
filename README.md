@@ -9,7 +9,7 @@ This Power BI dashboard analyzes job market trends across eight key data-related
 ### 1. Jobs Page
 
 - Tree map showing proportion of job skills in each job title
-- lLine chart tracking job posting counts over time (2017-2021) for each position level (Associate, Director, Entry level, Executive, Internship, mid-senior level)
+- Line chart tracking job posting counts over time (2017-2021) for each position level (Associate, Director, Entry level, Executive, Internship, mid-senior level)
 - Bar chart showing average years of experience required by each y job position level
 
 ### 2. Skills Page
