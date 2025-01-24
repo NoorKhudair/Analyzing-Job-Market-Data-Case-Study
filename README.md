@@ -5,7 +5,7 @@
 This Power BI dashboard analyzes job market trends across eight key data-related roles: Business Analyst, Data Analyst, Data Architect, Data Engineer, Data Science Manager, Data Scientist, Machine Learning Engineer, and Research Scientist. The analysis covers over 9,500 job postings from 2017 to 2021.
 
 ## Dashboard Pages Structure
-![Main Page Preview](Preview/Main%20Page.PNG)
+![Main Page Preview](Preview/Main%20page.PNG)
 
 ### 1. Jobs Page
 ![Jobs Page Preview](Preview/Jobs%20Page.PNG)
