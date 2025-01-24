@@ -19,6 +19,7 @@ This Power BI dashboard analyzes job market trends across eight key data-related
 - Bar chart showing the frequency count of all job skills
 
 ### 3. Company Page
+![Alt text](Preview/Company%20Page.PNG)
 
 - Scatter plot showing years of experience and posting count by job position level across different industries
 - Chart displaying average years of experience by company size
