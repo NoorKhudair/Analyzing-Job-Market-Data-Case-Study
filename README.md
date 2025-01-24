@@ -5,21 +5,24 @@
 This Power BI dashboard analyzes job market trends across eight key data-related roles: Business Analyst, Data Analyst, Data Architect, Data Engineer, Data Science Manager, Data Scientist, Machine Learning Engineer, and Research Scientist. The analysis covers over 9,500 job postings from 2017 to 2021.
 
 ## Dashboard Pages Structure
+![Main Page Preview](Preview/Main%20Page.PNG)
 
 ### 1. Jobs Page
+![Jobs Page Preview](Preview/Jobs%20Page.PNG)
 
 - Tree map showing proportion of job skills in each job title
 - Line chart tracking job posting counts over time (2017-2021) for each position level (Associate, Director, Entry level, Executive, Internship, mid-senior level)
 - Bar chart showing average years of experience required by each job position level
 
 ### 2. Skills Page
+![Skills Page Preview](Preview/Skills%20Page.PNG)
 
 - Table showing percentage of each skill in a specific job title
 - Line chart tracking skill in postings percentage over time
 - Bar chart showing the frequency count of all job skills
 
 ### 3. Company Page
-![Alt text](Preview/Company%20Page.PNG)
+![Company Page Preview](Preview/Company%20Page.PNG)
 
 - Scatter plot showing years of experience and posting count by job position level across different industries
 - Chart displaying average years of experience by company size
